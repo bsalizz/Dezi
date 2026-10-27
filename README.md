@@ -1,5 +1,7 @@
 # Dezi
 
+![Dezi, a cica](media/cica.png)
+
 A cica a jobb alsó sarokban jelenik meg, külön panel, fül és bezárógomb nélkül. Átengedi az egérkattintásokat.
 
 Helyi CSS-kiegészítést használ, mert ezt a VS Code API nem támogatja. A workbench.desktop.main.css eredetijéről .dezi-backup másolat készül. A VS Code módosított telepítésre figyelmeztethet.
